@@ -1,0 +1,8 @@
+/bin
+/build
+*.class
+*.chw
+*.bak
+*.doc#
+.DS_Store
+*.pyc
